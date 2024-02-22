@@ -63,11 +63,3 @@ button:disabled {
 button:hover {
   background-color: #6c8cff;
 }
-
-.flatpickr-time {
-  font-family: inherit;
-  font-weight: 600;
-  font-size: 16px;
-  text-align: center;
-  color: #333;
-}
