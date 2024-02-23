@@ -1,4 +1,4 @@
-label>input[type='number'] {
+label>input[name="delay"] {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -10,18 +10,18 @@ label>input[type='number'] {
   color: #2e2f42;
 }
 
-input[type='number'] {
+input[name="delay"] {
   border: 1px solid #808080;
   border-radius: 4px;
   width: 360px;
   height: 40px;
 }
 
-input[type='number']:hover {
+input[name="delay"]:hover {
   border-color: #000;
 }
 
-input[type='number']:pressed {
+input[name="delay"]:pressed {
   border-color: #4e75ff;
 }
 
